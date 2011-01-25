@@ -1,0 +1,1 @@
+var numero1 = 10; var numero2 = 0; alert(numero1/numero2); // se muestra el valor Infinity
